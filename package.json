@@ -1,0 +1,24 @@
+{
+  "name": "basecss",
+  "version": "1.0.0",
+  "description": "A light-weight framework that will beautify your JavaScript learning experience and challenge you to master CSS.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davvead/BaseCSS.git"
+  },
+  "keywords": [
+    "basecss",
+    "css",
+    "html"
+  ],
+  "author": "Dave Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davvead/BaseCSS/issues"
+  },
+  "homepage": "https://github.com/davvead/BaseCSS#readme"
+}
